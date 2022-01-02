@@ -1,7 +1,7 @@
 package exercise9;
 
 public class Rectangle {
-    private Point startPoint;
+    public Point startPoint;
     private double height;
     private double width;
 
